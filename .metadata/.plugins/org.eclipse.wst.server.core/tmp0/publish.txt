@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Wed Apr 06 16:56:46 IST 2022
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\HP\\.m2\\repository\\org\\springframework\\spring-web\\4.3.6.RELEASE\\spring-web-4.3.6.RELEASE.jar=WEB-INF/lib/spring-web-4.3.6.RELEASE.jar
+org.eclipse.jst.j2ee.server\:backend=WEB-INF/lib/backend-0.0.1-SNAPSHOT.jar
